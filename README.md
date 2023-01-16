@@ -1,0 +1,2 @@
+# Genetics
+The 2rd project of AI course of University of Tehran. This project is about decoding a .txt file with genetics algorithm.In this project we used from muatation and crossover in genetics algorithm to decode an encrypted text.
